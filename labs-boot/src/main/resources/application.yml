@@ -1,0 +1,6 @@
+banner:
+  location: "WEB-INF/banner.txt"
+
+
+
+debug: true

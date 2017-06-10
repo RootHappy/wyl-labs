@@ -1,0 +1,6 @@
+Application Version: ${application.version}
+Application Formatted Version: ${application.formatted-version}
+Spring Boot Version: ${spring-boot.version}
+Sprint Boot Formatted Version: ${spring-boot.formatted-version}
+Application Title: ${application.title}
+Ansi Color: ${AnsiColor.BRIGHT_RED}
